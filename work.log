@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  26 FEB 2024 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  27 FEB 2024 13:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -376,42 +376,6 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 140.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 182.
-
-
-Package hyperref Warning: Suppressing empty link on input line 182.
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 182--184
-[]  
- []
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 189--191
-[]  
- []
-
-
-Package hyperref Warning: Suppressing empty link on input line 196.
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 196--198
-[]  
- []
-
-
-Package hyperref Warning: Suppressing empty link on input line 203.
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 203--205
-[]  
- []
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 209--211
-[]  
- []
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -428,18 +392,18 @@ Package rerunfilecheck Info: File `work.out' has not changed.
 (rerunfilecheck)             Checksum: E15AF3547DF386CAFA802EF015E14296;249.
  ) 
 Here is how much of TeX's memory you used:
- 13652 strings out of 476025
- 238865 string characters out of 5790017
- 1877388 words of memory out of 5000000
- 33939 multiletter control sequences out of 15000+600000
- 519416 words of font info for 59 fonts, out of 8000000 for 9000
+ 13656 strings out of 476025
+ 238903 string characters out of 5790017
+ 1872388 words of memory out of 5000000
+ 33938 multiletter control sequences out of 15000+600000
+ 519204 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,455b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on work.pdf (1 page, 113857 bytes).
+Output written on work.pdf (1 page, 113430 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
